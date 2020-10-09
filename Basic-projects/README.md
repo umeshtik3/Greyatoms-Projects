@@ -1,0 +1,1 @@
+Projects perform during the 'Data Science Transition' course in Greyatom.
